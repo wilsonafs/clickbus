@@ -56,7 +56,7 @@ GEM
     rack (2.2.2)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
-    rake (12.3.2)
+    rake (12.3.3)
     regexp_parser (1.7.0)
     rspec (3.8.0)
       rspec-core (~> 3.8.0)
@@ -97,7 +97,7 @@ DEPENDENCIES
   dotenv (= 2.6.0)
   inquirer
   pry-byebug (= 3.7.0)
-  rake (= 12.3.2)
+  rake (= 12.3.3)
   rspec (= 3.8.0)
   selenium-webdriver (= 3.141.0)
   site_prism (= 3.0.2)
